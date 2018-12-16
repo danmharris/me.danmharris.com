@@ -1,0 +1,17 @@
+---
+title: A hectic couple of weeks
+date: 2018-02-11T20:06:30+00:00
+---
+I managed to survive a whopping 4 weeks before skipping a post, however I was quite preoccupied last weekend so had zero time to write a post. As a result this week's update will cover the last 2 weeks of activity.
+
+Last week was the beginning of semester 2, which meant getting back into the routine of getting up, going to lectures and not being home for most of the day. It was definitely a struggle for the first few days (especially with 9 am starts) but I think i'm back into the full swing now. I mentioned previously that I had a lot of group projects coming up over the next few weeks, well now I know the group for the significant one and as expected I panicked way to much about who I would be allocated with. We've all met up and now my browser is full of about a million tabs ranging from a Slack group, to a Trello board to many Google Drive documents. I guess this is what it feels like to be a true software developer. We all get along well so hopefully this will be an enjoyable experience for us all, but we'll have to watch this space.
+
+Socially the last couple of weeks have been hectic as well. I worked out the numbers and it turns out I spent around £200 on food and drink in this time. Whoops! This started with a couple of white t-shirt socials which are always enjoyable and interesting to see what I end up having written on me by the end of the night. There were also 2 birthdays which meant 2 trips to a restaurant to celebrate (one of which ended up in Spoons for drinks which ended slightly drunkenly). Then on top of this there were other trips to the pub to eat or getting takeaway, so it really adds up.
+
+In other exciting news I _finally_ have a new passport. My previous one expired almost 2 years ago and up until this point I have had no need to renew it. However after missing out on a post exam trip to Spain it rather quickly moved up my priority list. Obviously that meant the thing everyone looks forward to which is going to a photo booth and spend £6 to have a picture taken that makes you look somewhat like an escaped convict, whilst keeping your fingers crossed that it doesn't get rejected by the passport office.
+
+As I type this I am actually back at home, since I decided to pay my home town a visit whilst the workload is reasonably low. Unfortunately I have to have a very small rant about the absolutely extortionate price of train fares. To get home I have to go up to London and then back down again, due to there being no easy route that goes across. Because of London though the price of my ticket costs in the region of £40, and that's with a railcard! I have done train journeys that are significantly further that cost the same or even less, so it is incredibly infuriating. What's more, for some reason a single costs roughly the same as a return, who knows who worked that out. Journey prices aside, its always nice to catch up with people from home and of course get some home cooked meals. In fact I feel somewhat like a royal guest as the entire family's plans get reordered around me for my visit.
+
+Well that's it for this week (well two weeks). I should really get into the habit of writing some of these posts during the week so that if my weekend suddenly gets filled up I don't have to miss out on a post (trust me it bugged me that the streak was broken). So in theory you should hear from me the same time next week :).
+
+-- Dan

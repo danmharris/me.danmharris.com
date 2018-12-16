@@ -11,3 +11,6 @@ title = "Dan Harris's Blog"
     identifier = "tech blog"
     name = "Tech Blog"
     url = "https://blog.danmharris.com"
+
+[permalinks]
+  post = "/:year/:month/:title/"

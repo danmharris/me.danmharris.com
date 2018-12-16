@@ -1,0 +1,15 @@
+---
+title: Getting back into the swing of things
+date: 2018-01-14T19:58:54+00:00
+---
+It's always fun getting back in to the normal routine of term time. One of the upsides is getting to catch up with everyone about what they got up to over the Christmas break. It also lets you ask about how much (or little) revision they managed to get done for the exams which are drawing ever closer. However, the return to timetabled days meant having some early starts, something which I am becoming more and more unable to deal with. I think to say that my sleeping is broken is a bit of an understatement. That's not to say that I go to bed late, more so that when you have a lot of things circulating through your mind it can be a challenge to actually nod off. I feel like my brain knows that I have to be up at 7 am and goes "Let's think about even more than usual!", resulting in me being able to see the night passing me by every time I look over at the clock.
+
+As expected, the majority of my week outside of lectures has been spent on campus revising and not returning home until the evening. You know its exam season when you struggle to find a seat in the library first thing in the morning, so I've been hopping back and forth between there and our computer lab. I used to be able to revise at home, but lately that just hasn't been the case. I think when you're living away from home there are more things to do to procrastinate, particularly chores like laundry or cleaning. I know from the last few months what sort of effect over working can have on me, so I made the decision this time to have a cut off point in the evening, after which it will be my time to relax and take my mind off of it a bit.
+
+Whilst attending a revision lecture this week, a lecturer made the comment on how students revise how to answer an exam paper rather than understanding the material. Unfortunately in some regards this is the sad truth. I still remember when GCSEs were looming and us being told that the best way for us to revise for them was to complete as many past papers as possible, as this allowed us to learn the style of questions and know how to answer them in the case that one comes up again. This idea has carried through from GCSEs, to A-Levels and is still valid at degree level. Personally, I don't see this idea as fair to everyone, because certain subjects are now just a game of how much information can you regurgitate from previous exams rather than actually having a firm grasp on the content. You could have a person that spent hours preparing for an exam and understood all the topics get the exact same mark as someone who just memorised the answers to the past 4 exam papers.
+
+I should probably stop there before I descend in to a full rant about how I don't think exams actually assess the knowledge of an individual and focus on my ones first. It's going to be a fun week, with an exam on every day apart from Wednesday, although after that I am free to unwind for a week before the workload of semester 2 kicks in.
+
+I'll see you on the other side.
+
+-- Dan

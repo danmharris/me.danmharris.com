@@ -1,0 +1,13 @@
+---
+title: Things are building up
+date: 2018-02-18T20:00:44+00:00
+---
+It's already reaching that point in the semester unfortunately, where things are starting to build up. Before I would worry about not doing anything when there was no work to do, but now its worrying about not doing work when there is work to do. The first deadline for the major group coursework is coming up, so the week has been spent frantically trying to piece all of our separate documents together into something that we can hand in, making sure that it ticks as many of the boxes as possible. This particular stage of the project is difficult as I suppose its something completely new to all of us. It's a software development project, however in the past we have been given a spec which we can work on for a few weeks then hand everything in at once. Since it is done individually there is little extra work needing to be done as you know what is happening. But when in a group, everything needs to be done so that everyone else can follow and trace what you've done, adding to the documentation required. Furthermore, it starts with an "envisioning" stage, basically where we have to understand what the user wants from the application we're developing. This means a lot of abstract thinking and writing personas of users and user stories for what they want, which is again something drastically different to what we've done before. Luckily after this it goes back to a fairly similar process to what we're used to from before so it'll settle down a bit.
+
+Another project happening right now for a different module is to come up with our own specific programming language, which is actually quite interesting but at the same time is quite infuriating. You never realise how much needs to be thought about and the different aspects of languages which we are used to. Finally there is one that involves a lot of background research, which means going to Google Scholar and downloading a bunch of PDF articles, reading through them and highlighting relevant points... I can't say this is my favourite task in the world to be doing.
+
+So as you can tell, this week has not been particularly interesting, although I did make parsnip cake for the first time. I know, it sounds disgusting and the least likely combination of ingredients ever but it actually tasted really nice to the agreement of other people who tried it.
+
+The next couple of weeks are most likely going to be very similar to this one so I'm afraid there may be some incredibly boring posts coming your way, but I'll try and keep them interesting. Enjoy your week!
+
+-- Dan
