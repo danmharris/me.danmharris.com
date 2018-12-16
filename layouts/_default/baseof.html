@@ -1,4 +1,10 @@
 {{ partial "header.html" . }}
+{{ block "hero" . }}
+    <div class="text-center py-4 mx-2" id="hero">
+        <h1 class="font-weight-bold"><a id="site-title" href="/">Dan Harris's Blog</a></h1>
+        <h5>A place to share my thoughts</h5>
+    </div>
+{{ end }}
 {{ partial "menu.html" . }}
 {{ block "content" . }}
 
