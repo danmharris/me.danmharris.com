@@ -1,16 +1,7 @@
 {{ define "content" }}
     {{ $paginator := .Paginate (where .Pages "Type" "post") 5 }}
     {{ range $paginator.Pages }}
-        <div class="post py-3">
-            <div class="post-header">
-                <h2><a href="{{ .URL }}">{{ .Title }}</a></h2>
-                <h6 class="ml-3"><i class="fas fa-calendar-alt"></i> {{ .PublishDate.Format "2 January, 2006" }}</h6>
-            </div>
-            <div class="post-body my-2">
-                {{ .Summary }}
-            </div>
-            <a href="{{ .URL }}">Read More</a>
-        </div>
+       {{ .Render "summary" }}
     {{ end }}
     <nav class="mt-4" aria-label="Page navigation example">
         <ul class="pagination">
