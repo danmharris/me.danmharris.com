@@ -1,0 +1,10 @@
+{{ define "content" }}
+<div class="post-header text-center">
+    <h2> {{ .Title }}</h2>
+    <h6><i class="fas fa-calendar-alt"></i> {{ .Date.Format "2 January, 2006" }}</h6>
+</div>
+<hr>
+<div class="post-body my-3">
+        {{ .Content }}
+</div>
+{{ end }}

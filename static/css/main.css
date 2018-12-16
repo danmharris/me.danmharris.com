@@ -1,6 +1,11 @@
+html {
+    overflow-y: scroll;
+}
+
 body {
     background-color: #efefef;
     color: #1e1e1e;
+    font-family: 'Poppins', sans-serif;
 }
 
 #hero {
