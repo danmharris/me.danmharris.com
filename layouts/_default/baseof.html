@@ -6,7 +6,9 @@
     </div>
 {{ end }}
 {{ partial "menu.html" . }}
-{{ block "content" . }}
+<div id="container">
+    {{ block "content" . }}
 
-{{ end }}
+    {{ end }}
+</div>
 {{ partial "footer.html" }}

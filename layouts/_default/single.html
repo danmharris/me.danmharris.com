@@ -1,0 +1,5 @@
+{{ define "content" }}
+<h2> {{ .Title }}</h2>
+<h6 class="ml-3"><i class="fas fa-calendar-alt"></i> {{ .PublishDate.Format "2 January, 2006" }}</h6>
+{{ .Content }}
+{{ end }}

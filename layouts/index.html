@@ -1,3 +1,9 @@
 {{ define "content" }}
-    {{ .Content }}
+    {{ range where .Pages "Section" "post" }}
+        <h2><a href="{{ .URL }}">{{ .Title }}</a></h2>
+        <h6 class="ml-3"><i class="fas fa-calendar-alt"></i> {{ .PublishDate.Format "2 January, 2006" }}</h6>
+        {{ .Summary }}
+        <br>
+        <a href="{{ .URL }}">Read More</a>
+    {{ end }}
 {{ end }}
