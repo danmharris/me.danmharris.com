@@ -7,10 +7,12 @@ title = "Dan Harris's Blog"
     identifier = "main site"
     name = "Main Website"
     url = "https://danmharris.com"
+    weight = 20
   [[menu.main]]
     identifier = "tech blog"
     name = "Tech Blog"
     url = "https://blog.danmharris.com"
+    weight = 30
 
 [permalinks]
   post = "/:year/:month/:title/"

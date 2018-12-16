@@ -1,7 +1,7 @@
 ---
 title: "Home"
 menu: "main"
-weight: 1
+weight: 10
 ---
 Hello, welcome to my personal blog! If you couldn't already tell, my name is Dan Harris and this is the blog where I post thoughts or discuss non-technical topics. Technical posts can be found on my [technology blog](https://blog.danmharris.com).
 
