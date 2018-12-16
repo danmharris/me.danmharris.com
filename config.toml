@@ -1,3 +1,13 @@
 baseURL = "https://me.danmharris.com/"
 languageCode = "en-gb"
 title = "Dan Harris's Blog"
+
+[menu]
+  [[menu.main]]
+    identifier = "main site"
+    name = "Main Website"
+    url = "https://danmharris.com"
+  [[menu.main]]
+    identifier = "tech blog"
+    name = "Tech Blog"
+    url = "https://blog.danmharris.com"
