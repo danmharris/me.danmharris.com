@@ -1,10 +1,40 @@
+body {
+    background-color: #efefef;
+    color: #1e1e1e;
+}
+
+#hero {
+    background-color: white;
+}
+
 #site-title {
     text-decoration: none;
-    color: black;
+    color: #1e1e1e;
+}
+
+#menu-main {
+    background-color: #1976D2;
+}
+
+#menu-main a{
+    color: white;
+}
+
+#menu-main i {
+    color: white;
+    font-size: 1.5em;
+}
+
+#menu-main li:hover {
+    background-color: #2196F3;
 }
 
 #container {
     max-width: 1000px;
     margin: 0 auto;
     padding: 2em 1em;
+}
+
+.post-title, .post-title:hover, .post-title:visited {
+    color: #1e1e1e;
 }

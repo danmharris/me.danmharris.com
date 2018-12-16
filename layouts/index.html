@@ -2,6 +2,7 @@
     {{ $paginator := .Paginate (where .Pages "Type" "post") 5 }}
     {{ range $paginator.Pages }}
        {{ .Render "summary" }}
+       <hr>
     {{ end }}
     <nav class="mt-4" aria-label="Page navigation example">
         <ul class="pagination">
