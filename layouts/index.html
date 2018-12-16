@@ -1,15 +1,19 @@
 {{ define "content" }}
     {{ $paginator := .Paginate (where .Pages "Type" "post") 5 }}
+    {{ if eq $paginator.PageNumber 1 }}
+      <div class="text-center">{{ .Content }}</div>
+      <h2 class="text-center mt-5">Posts</h2>
+    {{ end }}
     {{ range $paginator.Pages }}
        {{ .Render "summary" }}
        <hr>
     {{ end }}
     <nav class="mt-4" aria-label="Page navigation example">
         <ul class="pagination">
-          {{ if .Paginator.HasPrev }}
+          {{ if $paginator.HasPrev }}
             <li class="page-item"><a class="page-link" href="{{ .Paginator.Prev.URL }}">Previous</a></li>
           {{ end }}
-          {{ if .Paginator.HasNext }}
+          {{ if $paginator.HasNext }}
             <li class="page-item"><a class="page-link" href="{{ .Paginator.Next.URL }}">Next</a></li>
           {{ end }}
         </ul>
