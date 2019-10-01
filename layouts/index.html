@@ -1,5 +1,5 @@
 {{ define "content" }}
-    {{ $paginator := .Paginate (where .Pages "Type" "post") 5 }}
+    {{ $paginator := .Paginate (where site.RegularPages "Type" "post") 5 }}
     {{ if eq $paginator.PageNumber 1 }}
       <div class="text-center">{{ .Content }}</div>
       <h2 class="text-center mt-5">Posts</h2>

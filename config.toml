@@ -1,4 +1,4 @@
-baseURL = "https://me.danmharris.com/"
+baseURL = "https://danharr.is/"
 languageCode = "en-gb"
 title = "Dan Harris's Blog"
 
@@ -11,7 +11,7 @@ title = "Dan Harris's Blog"
   [[menu.main]]
     identifier = "tech blog"
     name = "Tech Blog"
-    url = "https://blog.danmharris.com"
+    url = "https://danmharris.com/posts"
     weight = 30
 
 [permalinks]
