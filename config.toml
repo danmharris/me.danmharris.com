@@ -2,6 +2,8 @@ baseURL = "https://danharr.is/"
 languageCode = "en-gb"
 title = "Dan Harris's Blog"
 
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
 [menu]
   [[menu.main]]
     identifier = "main site"
